@@ -1,0 +1,11 @@
+body{
+ display:flex;
+ justify-content: center;
+}
+button{
+    padding: 0px;
+    border:0px solid black; 
+}
+/* img{
+    border: solid 2px black;
+} */
